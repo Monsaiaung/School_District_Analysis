@@ -13,15 +13,12 @@ The purpose of the analysis is remove school data that have some evidences of ac
 ## Results
 
 - How is the district summary affected?
-As seen in Figure 1 and Figure 2, taking Thomas High School ninth graders out of the equation had the following effects on the district summary metrics:
-
-Average Math Score decreased by <1%
-Average Reading Score remained unaffected
-% Passing Math decreased by <1%
-% Passing Reading decreased by <1%
-% Overall Passing decreased by <1%
+Before removing Thomas High School ninth graders out of the dataset.
 ![Beforedistrictsummary](https://github.com/Monsaiaung/School_District_Analysis/blob/8e9e600a87b660b7beee188b607039f1f44b6ae6/Resources/BeforeDistrictSummary.png)
+Afer removing Thomas High School ninth graders out ouf the dataset.
 ![Districtsummary](https://github.com/Monsaiaung/School_District_Analysis/blob/8e9e600a87b660b7beee188b607039f1f44b6ae6/Resources/DistrictSummary.png)
+
+As seen in the images above, Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing all decreased by some decimal points after taking Thomas High School ninth graders out of the dataset. However, Average Reading Score doesn't seem to be affected.
 
 - How is the school summary affected?
 
