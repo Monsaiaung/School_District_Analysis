@@ -22,9 +22,13 @@ Afer removing Thomas High School ninth graders out ouf the dataset.
 As seen in the images above, Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing all decreased by some decimal points after taking Thomas High School ninth graders out of the dataset. However, Average Reading Score doesn't seem to be affected.
 
 
+
 - How is the school summary affected?
-![BeforeSchoolSummary](https://github.com/Monsaiaung/School_District_Analysis/blob/7987a794ca4bbb4a324e7872af8abe000f178289/Resources/BeforeSchoolSummary.png)
-![AfterSchoolSummary](https://github.com/Monsaiaung/School_District_Analysis/blob/7987a794ca4bbb4a324e7872af8abe000f178289/Resources/AfterSchoolSummary.png)
+![BeforeSchoolSummary](https://github.com/Monsaiaung/School_District_Analysis/blob/7987a794ca4bbb4a324e7872af8abe000f178289/Resources/AfterSchoolSummary.png)
+
+![AfterSchoolSummary](https://github.com/Monsaiaung/School_District_Analysis/blob/7987a794ca4bbb4a324e7872af8abe000f178289/Resources/BeforeSchoolSummary.png)
+
+After the clean-up of Thomas School School data, % Passing Math decreased from 93% to 67%, % Passing Reading decreased from 97% to 70% and % Overall Passing decreased from 91% to 65%.
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
