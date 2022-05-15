@@ -30,13 +30,20 @@ As seen in the images above, Average Math Score, % Passing Math, % Passing Readi
 
 After the clean-up of Thomas School School data, % Passing Math decreased from 93% to 67%, % Passing Reading decreased from 97% to 70% and % Overall Passing decreased from 91% to 65%.
 
+
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
+ After replacing ninth graders’ math and reading scores of Thomas High School’s performance, its ranking went down from 2nd place to 8th place relative to the other schools.
+ 
+ 
+ 
 - How does replacing the ninth-grade scores affect the following:
-
 - Math and reading scores by grade
 
+Math and Reading Scores from Thomas High School 9th Grade were replaced and set to "nan". After cleanign the data, the student count of Thomas High School decreased from 1635 to 1174.The average math and reading scores of other grades only increased slighty by decimal points after replacing the ninth-grade scores.
+
 - Scores by school spending
+
+
 
 - Scores by school size
 
