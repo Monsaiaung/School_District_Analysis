@@ -14,16 +14,36 @@ The purpose of the analysis is remove school data that have some evidences of ac
 
 - How is the district summary affected?
 
+Before removing Thomas High School ninth graders out of the dataset.
+![Beforedistrictsummary](https://github.com/Monsaiaung/School_District_Analysis/blob/8e9e600a87b660b7beee188b607039f1f44b6ae6/Resources/BeforeDistrictSummary.png)
+Afer removing Thomas High School ninth graders out ouf the dataset.
+![Districtsummary](https://github.com/Monsaiaung/School_District_Analysis/blob/8e9e600a87b660b7beee188b607039f1f44b6ae6/Resources/DistrictSummary.png)
+
+As seen in the images above, Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing all decreased by some decimal points after taking Thomas High School ninth graders out of the dataset. However, Average Reading Score doesn't seem to be affected.
+
+
 
 - How is the school summary affected?
+![BeforeSchoolSummary](https://github.com/Monsaiaung/School_District_Analysis/blob/7987a794ca4bbb4a324e7872af8abe000f178289/Resources/AfterSchoolSummary.png)
+
+![AfterSchoolSummary](https://github.com/Monsaiaung/School_District_Analysis/blob/7987a794ca4bbb4a324e7872af8abe000f178289/Resources/BeforeSchoolSummary.png)
+
+After the clean-up of Thomas School School data, % Passing Math decreased from 93% to 67%, % Passing Reading decreased from 97% to 70% and % Overall Passing decreased from 91% to 65%.
+
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
+ After replacing ninth graders’ math and reading scores of Thomas High School’s performance, its ranking went down from 2nd place to 8th place relative to the other schools.
+ 
+ 
+ 
 - How does replacing the ninth-grade scores affect the following:
-
 - Math and reading scores by grade
 
+Math and Reading Scores from Thomas High School 9th Grade were replaced and set to "nan". After cleanign the data, the student count of Thomas High School decreased from 1635 to 1174.The average math and reading scores of other grades only increased slighty by decimal points after replacing the ninth-grade scores.
+
 - Scores by school spending
+
+
 
 - Scores by school size
 
