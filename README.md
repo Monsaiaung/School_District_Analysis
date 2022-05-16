@@ -47,7 +47,10 @@ Math and Reading Scores from Thomas High School 9th Grade were replaced and set 
 Thomas High School Spending bracket falls into $630-644. There weren't big affect in school spending by replacing ninth-grade scores.
 ![SchoolSpending](https://github.com/Monsaiaung/School_District_Analysis/blob/d90653daf7e0b603a9d33056ba917837efc2df05/Resources/BeforeSchoolSpending.png)
 
-
 - Scores by school size
-
+Scores by school size didn't have any affect by replacing ninth-grade scores.
+![SchoolSpending](https://github.com/Monsaiaung/School_District_Analysis/blob/d90653daf7e0b603a9d33056ba917837efc2df05/Resources/BeforeSchoolSpending.png)
 - Scores by school type
+- 
+Scores by school type didn't have any affect by replacing ninth-grade scores.
+![SchoolSpending](https://github.com/Monsaiaung/School_District_Analysis/blob/d90653daf7e0b603a9d33056ba917837efc2df05/Resources/BeforeSchoolSpending.png)
