@@ -55,3 +55,5 @@ Scores by school type didn't have any affect by replacing ninth-grade scores.
 ![SchoolType](https://github.com/Monsaiaung/School_District_Analysis/blob/18249f01e9f06e56d9586ab420a3fdaaee94fe16/Resources/schooltype.png)
 
 ## Summary
+
+After reading and math scores for the ninth grade at Thomas High School it affected the ranking of Thomas High School. Relative to other school, Thomas High School ranking fell from 2nd to 8th. Removing Thomas High school's ninth grade reading and math score did decrease % Passing math, % Passing reading and % Overall Passing of Thomas High School. 
